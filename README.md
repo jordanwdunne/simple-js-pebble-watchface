@@ -15,3 +15,8 @@ I've added:
 ## License
 
 This example is licensed under the [MIT License](./LICENSE).
+
+## Notes
+
+There's evidently not support for battery status in the JS Pebble SDK.
+If you build this, you'll need to get your own API key for the weather status. You can sign up for free and get an API key [openweathermap.org](https://home.openweathermap.org "here.")
